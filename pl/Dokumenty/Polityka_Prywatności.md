@@ -1,6 +1,6 @@
 # <img src="https://github.com/H3-gg/.github/blob/main/icon.png" alt="logoh3gg" style="width: 20%; height: auto;"> <br>H3gg <br>Puchar Zdobywców Pucharów 2026
 
-<p align="right">16/12/2025</p>
+<p align="right">20/12/2025</p>
 
 <h1 align="center">Polityka Prywatności</h1>
 

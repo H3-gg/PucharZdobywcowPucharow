@@ -1,6 +1,6 @@
 # <img src="https://github.com/H3-gg/.github/blob/main/icon.png" alt="logoh3gg" style="width: 20%; height: auto;"> <br>H3gg <br>Puchar Zdobywców Pucharów 2026
 
-<p align="right">14/12/2025</p>
+<p align="right">20/12/2025</p>
 
 <h1 align="center">Regulamin Szablonów</h1>
 
@@ -47,8 +47,6 @@
    - Sapphire XH,
    - Spider.
 
-3. Link do pobrania wszystkich wyżej wymienionych szablonów znajduje się na [Dysku Google](https://drive.google.com/drive/folders/1KnC6a-POSC7BFk4acS3xmNKrNyeKt0lX?usp=sharing).
-
 ## 2. Sposób wyboru szablonu
 
 1. Wybór szablonu z paczki:
@@ -87,7 +85,7 @@
    |   Sapphire XH   |    Fabryka     |
    |     Spider      |    Bulwark     |
 
-## 2. Domyślne ustawienia szablonów w Partiach
+## 3. Domyślne ustawienia szablonów w Partiach
 
 1. Za zgodą obu Uczestników ustawienia zegara, tur symultanicznych, bądź liczby AI mogą zostać zmienione.
 
@@ -110,7 +108,7 @@
 
 3. Przez wybór zamków graczy komputerowych przez licytację następuje po licytacji o miasto i przebiega w następujący sposób:
 
-    `1)` Host losuje kolejno 6 unikalnych miast, innych niż te wybrane przez Uczestnikóœ. Miasta wylosowane jako 1., 2. i 3. stanowią “pierwszą paczkę AI”, a te wylosowane jako 4., 5. i 6. - “drugą paczkę AI”,
+    `1)` Host losuje kolejno 6 unikalnych miast, innych niż te wybrane przez Uczestników. Miasta wylosowane jako 1., 2. i 3. stanowią “pierwszą paczkę AI”, a te wylosowane jako 4., 5. i 6. - “drugą paczkę AI”,
     `2)` Uczestnicy licytują o pierwszeństwo wyboru paczki AI,
     `3)` Zwycięzca licytacji “o paczkę AI” pierwszy wybiera które frakcje AI zostaną przyporządkowane “jego” graczom komputerowym - te z pierwszej czy drugiej paczki. Przyporządkowanie graczy komputerowych odbywa się według koloru:
       - Do gracza czerwonego “należą”:

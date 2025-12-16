@@ -10,11 +10,14 @@
 
 2. Turniej organizowany jest bez żadnego zysku dla Organizatorów. Wszelkie prawa do marki, logo oraz znaków towarowych Heroes III posiada Ubisoft Entertainment SA.
 
-3. O zasadach Turnieju stanowi niniejszy dokument (zwany dalej Regulaminem), Dokumenty wymienione w [punkcie 4. rozdziału 1.](#point-1-4) oraz Oficjalne komunikaty organizatorów określone w [punkcie 7. rozdziału 1.](#point-1-7).
+3. O zasadach Turnieju stanowi niniejszy dokument (zwany dalej Regulaminem), Dokumenty wymienione w 
+   [punkcie 4. 
+   rozdziału 1.](#point-1-4) oraz Oficjalne komunikaty organizatorów określone w [punkcie 8. rozdziału 1.](#point-1-8). 
+   Regulamin, Dokumenty oraz Oficjalne komunikaty łącznie zwane są dalej Zasadami Turnieju.
 
 4. <a id="point-1-4"></a>Dokumenty będące częścią Zasad Turnieju:
 
-   - [Polityka Prywatności](./Dokumenty/)
+   - [Polityka Prywatności](./Dokumenty/Polityka_Prywatności.md)
    - [Regulamin Szablonów](./Dokumenty/Regulamin_Szablonów.md)
 
 
@@ -59,15 +62,17 @@
 
 11. Organizatorzy zastrzegają sobie prawo do niedopuszczenia wybranej osoby do pełnienia funkcji komentatora lub hosta transmisji z Gry rozgrywanej w ramach Turnieju.
 
-12. Organizatorzy zastrzegają sobie prawo do zmiany Zasad Turnieju, w przypadkach, w których jest to niezbędne do prawidłowego przebiegu Turnieju. Organizatorzy mają obowiązek poinformować o zmianach Zasad Turnieju w oficjalnym komunikacie. Zmiany za wyjątkiem zmian Polityki Prywatności, które wchodzą w życie po upłynięciu 14 dni od opublikowania decyzji.
+12. Organizatorzy zastrzegają sobie prawo do zmiany Zasad Turnieju, w przypadkach, w których jest to niezbędne do prawidłowego przebiegu Turnieju. Organizatorzy mają obowiązek poinformować o zmianach Zasad Turnieju w oficjalnym komunikacie. Zmiany Zasad Turnieju wchodzą w życie w dniu ich opublikowania, z wyjątkiem zmian Polityki Prywatności, które wchodzą w życie po upłynięciu 14 dni od opublikowania decyzji.
+
+13. Polskojęzyczna wersja Zasad Turnieju jest wersją oficjalną. W przypadku rozbieżności pomiędzy wersją polskojęzyczną a inną wersją językową obowiązuje wersja polskojęzyczna. Oficjalną angielskojęzyczna nazwą Turnieju jest "Champions Cup 2026".
 
 ## 2. Format Turnieju
 
 1. Turniej zostanie podzielony na 2 fazy:
 
-   `1)` Fazę Szwajcarską,
+   `1)` Fazę Grupową,
 
-   `2)` Wielki Finał.
+   `2)` Wielkie Finały.
 
 2. W Turnieju uczestniczyć będą osoby zaproszone przez Organizatorów. Będą nimi finaliści następujących turniejów H3gg i Ligi Heroes:
    - XL+yoU 3,
@@ -75,46 +80,56 @@
    - 30th Anniversary Cup, 
    - King of h3dm,
    - Puchar Zdobywców Pucharów 2024,
-   - Liga Heroes Sezon X - zwycięzcy dywizji 1a i 1b,
+   - Liga Heroes Sezon IX i X - zwycięzcy dywizji 1a i 1b,
    - Liga Mistrzów Ligi Heroes Sezon IX,
    - Taste of Haste 3 - TURBO is back,
-   - Exotic Tournament II.
+   - Exotic Tournament II,
+   - Sapphire Battlegrounds 2,
+   - "Six it up!" - Knockout Stage - Division PRO.
 
-3. Faza Szwajcarska:
+3. Faza Grupowa:
 
-   `1)` Faza Szwajcarska będzie trwać od 7 stycznia 2026 do 28 stycznia 2026 włącznie,
+   `1)` Faza Grupowa będzie trwać od 14 stycznia 2026 do 11 lutego 2026 włącznie,
 
-   `2)` W Fazie Szwajcarskiej wezmą udział wszyscy Uczestnicy zaproszenie do Turnieju na podstawie punktu 2. tego rozdziału,
+   `2)` W Fazie Grupowej wezmą udział wszyscy Uczestnicy zaproszenie do Turnieju na podstawie punktu 2. tego rozdziału,
 
-   `3)` W Fazie Szwajcarskiej Uczestnicy po 6 Meczów Bo1, przeciwnicy w pierwszym Meczu zostaną dobrani losowo, a w kolejnych Meczach na podstawie liczby zdobytych punktów, zgodnie z zasadami systemu szwajcarskiego,
+   `3)` W Fazie Grupowej Uczestnicy zostaną podzieleni na 2 grupy o równej wielkości. W każdej grupie Uczestnicy 
+   rozegrają ze sobą Mecze w systemie każdy z każdym.
 
    `4)` Za zwycięstwo Uczestnik otrzymuje 1 punkt, w przypadku porażki jest to 0 punktów, w przypadku remisu Mecz powinien zostać powtórzony,
 
-   `5)` Zwycięzcami Fazy Szwajcarskiej zostanie 2 Uczestników z największą liczbą punktów,
+   `5)` Zwycięzcami Fazy Grupowej zostanie po 2 Uczestników z największą liczbą punktów w każdej grupie,
 
-   `6)` W przypadku zdobycia przez dwóch lub więcej Uczestników równej liczby punktów, decyduje wynik Meczów bezpośrednich pomiędzy tymi Uczestnikami,
+   `6)` W przypadku zdobycia przez dwóch lub więcej Uczestników w jednej grupie równej liczby punktów, decyduje wynik 
+   Meczów bezpośrednich pomiędzy tymi Uczestnikami,
 
-   `7)` W przypadku, w którym wynik Meczów bezpośrednich nie pozwala na jednoznaczne wskazanie zwycięzców (np. niech trzech Uczestników A, B i C znajduje się w jednej grupie i posiada równą liczbę punktów, Uczestnik A wygrał Mecz bezpośredni z Uczestnikiem B, B z C, a C z A) Organizatorzy rozstrzygną kolejność w grupie poprzez rzut monetą zgodnie z ustępem `9)`,
+   `7)` W przypadku, w którym wynik Meczów bezpośrednich nie pozwala na jednoznaczne wskazanie zwycięzców (np. niech trzech Uczestników A, B i C znajduje się w jednej grupie i posiada równą liczbę punktów, Uczestnik A wygrał Mecz bezpośredni z Uczestnikiem B, B z C, a C z A) Organizatorzy rozstrzygną kolejność w grupie poprzez rzut monetą zgodnie z ustępem `8)`,
 
    `8)` Rzut monetą przeprowadzany jest przez jednego z Organizatorów przy obecności wszystkich Uczestników, których on dotyczy. Cała procedura powinna zostać nagrana przez Organizatora.
 
-    `9)` Ustępy `6)` i `7)` stosuje się wyłącznie w przypadku, w którym są one konieczne do wyłonienia zwycięzców Fazy Szwajcarskiej.
+    `9)` Ustępy `6)` i `7)` stosuje się wyłącznie w przypadku, w którym są one konieczne do wyłonienia zwycięzców 
+   Fazy Grupowej.
 
-4. Wielki Finał:
+4. Wielkie Finały:
 
-   `1)` Wielki Finał będzie trwać od 28 stycznia 2026 do 5 lutego 2026 włącznie,
+   `1)` Wielkie Finały będą trwać od 12 lutego 2026 do 12 marca 2026 włącznie,
 
-   `2)` w Wielkim Finale weźmie udział 2 zwycięzców Fazy Szwajcarskiej,
+   `2)` w Wielkich Finałach weźmie udział 4 zwycięzców Fazy Grupowej,
 
-   `3)` Wielki finał odbędą się w formie Meczu Bo3 pomiędzy dwoma zwycięzcami Fazy Szwajcarskiej,
+   `3)` Wielki finał odbędą się w formie drabinki Bo3 pomiędzy zwycięzcami Fazy Grupowej,
+
+   `4)` W pierwszej fazie Wielkich Finałów, Uczestnicy zmierzą się w parach, w których zwycięzca 1 grupy zmierzy się 
+   z graczem z 2 miejsca w 2 grupie, a zwycięzca 2 grupy z graczem z 2 miejsca w 1 grupie,
+
+   `5)` Zwycięzcy pierwszej fazy Wielkich Finałów zmierzą się w Wielkim Finale,
+
+   `6)` Termin na rozegranie każdego Meczu w Wielkich Finałach wynosi 14 dni.
 
 5. W przypadku problemów z terminowym rozegraniem Meczu:
 
    `1)` na wniosek Uczestnika Meczu, Organizatorzy mogą przedłużyć termin na rozegranie Meczu o jeden dzień,
 
    `2)` na wniosek obu Uczestników Meczu oraz za zgodą Uczestnika, z którym zmierzyłby się zwycięzca Meczu, w którym występuje problem z terminowym rozegraniem, Organizatorzy mogą przedłużyć termin na rozegranie Meczu o więcej niż jeden dzień, z zastrzeżeniem, że Uczestnicy powinni wcześniej ustalić termin Meczu w następnej rundzie z ich potencjalnym przeciwnikiem w tejże, a następnie podać go Organizatorom,
-
-   `3)` na wniosek obu Uczestników Meczu, lub decyzją Organizatorów, system rozgrywek może zostać zmieniony w danym Meczu na Bo1, nie dotyczy to Finału Fazy Pucharowej.
 
 6. W przypadku problemów ze znalezieniem wspólnego terminu Gry, Organizatorzy, na wniosek jednego z Uczestników Meczu lub własną decyzją, może wyznaczyć termin sędziowski dla danej Gry.
 
@@ -126,20 +141,20 @@
 
 2. Zewnętrzna pomoc. Istnieje wiele sposobów na zdobycie dodatkowych informacji użytecznych w trwającej Grze. Poniżej przedstawiamy listę wraz z tym czy dany sposób jest dozwolony:
 
-   | Sposób na zdobycie informacji | Jego legalność w Turnieju |
-   | :---                          | :----                         |
-   | Porady (osoba trzecia dostarcza Uczestnikowi informacje, które można wydedukować oglądając tylko jego stronę rozgrywki) przez tekst | Dozwolone, jeżeli podpowiedź nie posiada znaczącego wpływ na rozgrywkę oraz nie sprawia, że Uczestnik zmieni swój plan na rozgrywkę. Uczestnicy korzystający z tego typu porad, jeżeli nie spełniają one wymogów wymienionych w 1 zdaniu, mogą zostać ukarani, każdy tego typu przypadek należy zgłosić do Organizatorów; Uczestnicy transmitujący Grę powinni usuwać naruszające Zasady Turnieju podpowiedzi, najlepiej za pośrednictwem moderacji,|
-   | Porady przez telefon, teamspeak, skype, etc. rozmawiając na żywo| Zakazane |
-   | Spoilery (osoba trzecia dostarcza Uczestnikowi informacje których nie można wydedukować oglądając tylko jego stronę rozgrywki) | Zakazane - jeśli Uczestnika przeczyta spoiler powinien grać tak jakby go nie widział, a osoba udzielająca spoileru powinna zostać wyciszona przez Uczesntika bądź moderatora czatu, na czas trwania Gry |
-   | Ghosting (obecność na transmisji przeciwnika lub komentarzu tej Gry) | Zakazane |
-   | Programy czytające pamięć Heroes III - na przykład żeby zobaczyć nieodkrytą część mapy lub przewidzieć rozwój bohatera | Zakazane |
-   | Kalkulatory value lub obrażeń | Dozwolone |
-   | Poradniki wideo | Dozwolone |
-   | Oglądanie swojej transmisji lub nagrania z danej Gry w trakcie jej trwania | Zabronione |
-   | Screenshoty z trwającej Gry | Zabronione |
-   | Strony wiki | Dozwolone |
-   | Własne notatki o Heroes III lub Gry | Dozwolone |
-   | Makra i bindy | Dozwolone jest stosowanie makr i bindów ograniczających się do symulacji kombinacji 2 klawiszy, bez dodatkowych opóźnień oraz bez ruchów kursorem. |
+   | Sposób na zdobycie informacji                                                                                                       | Jego legalność w Turnieju                                                                                                                                                                               |
+   |:------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+   | Porady (osoba trzecia dostarcza Uczestnikowi informacje, które można wydedukować oglądając tylko jego stronę rozgrywki) przez tekst | Zakazane                                                                                                                                                                                                |
+   | Porady przez telefon, teamspeak, skype, etc. rozmawiając na żywo                                                                    | Zakazane                                                                                                                                                                                                |
+   | Spoilery (osoba trzecia dostarcza Uczestnikowi informacje których nie można wydedukować oglądając tylko jego stronę rozgrywki)      | Zakazane - jeśli Uczestnika przeczyta spoiler powinien grać tak jakby go nie widział, a osoba udzielająca spoileru powinna zostać wyciszona przez Uczesntika bądź moderatora czatu, na czas trwania Gry |
+   | Ghosting (obecność na transmisji przeciwnika lub komentarzu tej Gry)                                                                | Zakazane                                                                                                                                                                                                |
+   | Programy czytające pamięć Heroes III - na przykład żeby zobaczyć nieodkrytą część mapy lub przewidzieć rozwój bohatera              | Zakazane                                                                                                                                                                                                |
+   | Kalkulatory value lub obrażeń                                                                                                       | Dozwolone                                                                                                                                                                                               |
+   | Poradniki wideo                                                                                                                     | Dozwolone                                                                                                                                                                                               |
+   | Oglądanie swojej transmisji lub nagrania z danej Gry w trakcie jej trwania                                                          | Zabronione                                                                                                                                                                                              |
+   | Screenshoty z trwającej Gry                                                                                                         | Zabronione                                                                                                                                                                                              |
+   | Strony wiki                                                                                                                         | Dozwolone                                                                                                                                                                                               |
+   | Własne notatki o Heroes III lub Gry                                                                                                 | Dozwolone                                                                                                                                                                                               |
+   | Makra i bindy                                                                                                                       | Dozwolone jest stosowanie makr i bindów ograniczających się do symulacji kombinacji 2 klawiszy, bez dodatkowych opóźnień oraz bez ruchów kursorem.                                                      |
 
 3. Przy wczytywaniu Gry, dodatkowy czas (10 minut) oferowany przez grę służy WYŁĄCZNIE do planowania ruchów. Zabronione jest wtedy jakiekolwiek poruszanie bohaterów, rzucanie zaklęć, wykup armii, budynków etc.
 
@@ -169,12 +184,12 @@
 
 14. W fazie Wielkich Finałów Uczestnik zobowiązany jest do zamieszczenia informacji o planowanej dacie Gry na Discordzie na kanale `#schedule` 24 godziny przed rozpoczęciem Gry:
 
-> [!IMPORTANT]
-> Organizatorzy zachęcają do zamieszczania informacji o planowanej dacie Gry na Discordzie na kanale `#schedule` również we wcześniejszych fazach.
+    > [!IMPORTANT]
+    > Organizatorzy zachęcają do zamieszczania informacji o planowanej dacie Gry na Discordzie na kanale `#schedule` również we wcześniejszych fazach.
 
-14.  Uczestnik zobowiązany jest do prowadzenia transmisji ze wszystkich swoich Gier. Transmisja powinna być prowadzona na platformie Twitch, YouTube lub na kanale głosowym na Serwerze Discord H3gg. Uczestnik zobowiązany jest do zamieszczenia linku do transmisji na kanale `#streams` na Serwerze Discord.
+15.  Uczestnik zobowiązany jest do prowadzenia transmisji ze wszystkich swoich Gier. Transmisja powinna być prowadzona na platformie Twitch, YouTube lub na kanale głosowym na Serwerze Discord H3gg. Uczestnik zobowiązany jest do zamieszczenia linku do transmisji na kanale `#streams` na Serwerze Discord.
 
-15.  Jeżeli Gra jest retransmitowana przez Organizatorów Uczestnik dodatkowo zobowiązany jest na czas trwania Gry:
+16. Jeżeli Gra jest retransmitowana przez Organizatorów Uczestnik dodatkowo zobowiązany jest na czas trwania Gry:
 
       `1)` Ustawić rozdzielczość Heroes III w zakresie od 1180x664 do 1365x768.
 
@@ -247,7 +262,7 @@
 
    `3)` Nie zostały wygenerowane drogi,
 
-   `4)` Ustawienia szablonu są inne niż wymienione w punkcie 2. rozdziału 2 Regulaminu Szablonów, z wyłączeniem ustawień wymienionym w punkcie 1. rozdziału 2 tegoż, należy wtedy przed dokonaniem restartu mapy zmienić te ustawienia,
+   `4)` Ustawienia szablonu są inne niż wymienione w punkcie 2. rozdziału 3 Regulaminu Szablonów, z wyłączeniem ustawień wymienionym w punkcie 1. rozdziału 2 tegoż, należy wtedy przed dokonaniem restartu mapy zmienić te ustawienia,
 
    `5)` Wszystkie dostępne drogi ekspansji przez połączenia drogowe są zablokowane przez strażników, których nie da się obejść, lub ich obejście wymaga wykorzystania co najmniej 2000 punktów ruchu na każdego strażnika, a ich pokonanie powoduje straty na poziomie co najmniej 70% wojska startowego (definiowane jako sumaryczne HP wojska dostępnego na start i możliwego do wykupu w pierwszej turze gry) przy możliwie optymalnym rozegraniu walki i zakładając neutralne morale, na każdego strażnika. Nie dotyczy to strażników stref,
 
@@ -294,7 +309,6 @@
 
    `3)` Dyskwalifikacja - otrzymywana za duże przewinienia,
 
-   `4)` Ban - otrzymywane za największe przewinienia, jest równoznaczny z dyskwalifikacją i zakazem udziału w następnych edycjach Turnieju na czas określony, lub nie.
 
 2. Organizatorzy zastrzegają sobie prawo do dyskwalifikacji Uczestnika, z powodu popełnienia przez niego poważnego przewinienia w innym turnieju w Heroes III.
 
