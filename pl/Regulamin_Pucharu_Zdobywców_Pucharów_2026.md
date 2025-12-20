@@ -1,6 +1,6 @@
 # <img src="https://github.com/H3-gg/.github/blob/main/icon.png" alt="logoh3gg" style="width: 20%; height: auto;"> <br>H3gg <br>Puchar Zdobywców Pucharów 2026
 
-<p align="right">25/11/2025</p>
+<p align="right">20/12/2025</p>
 <br>
 <h1 align="center">Regulamin Turnieju Puchar Zdobywców Pucharów 2026</h1>
 
@@ -10,7 +10,7 @@
 
 2. Turniej organizowany jest bez żadnego zysku dla Organizatorów. Wszelkie prawa do marki, logo oraz znaków towarowych Heroes III posiada Ubisoft Entertainment SA.
 
-3. O zasadach Turnieju stanowi niniejszy dokument (zwany dalej Regulaminem), Dokumenty wymienone w [punkcie 4. rozdziału 1.](#point-1-4) oraz Oficjalne komunikaty organizatorów określone w [punkcie 7. rozdziału 1.](#point-1-7).
+3. O zasadach Turnieju stanowi niniejszy dokument (zwany dalej Regulaminem), Dokumenty wymienione w [punkcie 4. rozdziału 1.](#point-1-4) oraz Oficjalne komunikaty organizatorów określone w [punkcie 7. rozdziału 1.](#point-1-7).
 
 4. <a id="point-1-4"></a>Dokumenty będące częścią Zasad Turnieju:
 
@@ -20,7 +20,7 @@
 
 5. Obowiązuje następująca hierarchia Zasad Turnieju:\
    `1)` Regulamin,\
-   `2)` Dokumenty wymienone w [punkcie 4. rozdziału 1.](#point-1-4),\
+   `2)` Dokumenty wymienione w [punkcie 4. rozdziału 1.](#point-1-4),\
    `3)` Oficjalne komunikaty organizatorów określone w [punkcie 8. rozdziału 1.](#point-1-8).
 
 6. Turniej organizowany jest przez H3gg. Dokładny skład osobowy kadry Turnieju, wraz z podanym tagiem na platformie Discord:
@@ -41,13 +41,13 @@
 
 9. Uczestnikom przysługuje prawo do odwołania się od każdej decyzji Organizatorów, nie później niż 14 dni od opublikowania oficjalnego komunikatu, w którym została podjęta. Sposób odwołania określa się w następujacy sposób:
 
-   `1)` Uczestnik, który chce się odwołać od decyzji Organizatorów, wysyła jednemu z Organizatorów, w przypadku, w którym była to decyzja indywidualna jednego z Organizatorów, innemu Organizatorowi, niż ten, który podjął tę decyzję, informację o odwołaniu zawierającą następujące informacje:
+   `1)` Uczestnik, który chce się odwołać od decyzji Organizatorów, wysyła jednemu z Organizatorów, w przypadku, w którym była to decyzja indywidualna jednego z Organizatorów, innemu Organizatorowi, niż ten, który podjął tę decyzję, informację o odwołaniu zawierającą następujące informacje:
    <ul style="list-style: none;">
-   a) Oficjalny komunikat i konkretny jego fragment zawierający decyzję od której się odwołuje,
+   a) Oficjalny komunikat i konkretny jego fragment zawierający decyzję, od której się odwołuje,
 
    b) Powód odwołania,
 
-   c) W przypadku decyzji kluczowej do kontynuowania Turnieju, alterantywną decyzję, którą Uczestnik chciałby, aby Organizaotrzy podjęli
+   c) W przypadku decyzji kluczowej do kontynuowania Turnieju, alternatywną decyzję, którą Uczestnik chciałby, aby Organizatorzy podjęli
    </ul>
 
    `2)` Organizatorzy w ciągu 7 dni od otrzymania odwołania informują Uczestnika o rozpatrzeniu odwołania,
@@ -65,52 +65,48 @@
 
 1. Turniej zostanie podzielony na 2 fazy:
 
-   `1)` Fazę Grupową
+   `1)` Fazę Szwajcarską,
 
-   `2)` Wielkie Finały,
+   `2)` Wielki Finał.
 
 2. W Turnieju uczestniczyć będą osoby zaproszone przez Organizatorów. Będą nimi finaliści następujących turniejów H3gg i Ligi Heroes:
-- XL+yoU 3,
-- Mirror Casino 4,
-- 30th Anniversary Cup, 
-- King of h3dm,
-- Puchar Zdobywców Pucharów 2024,
-- Liga Heroes Sezon X - zwycięzcy dywizji 1a i 1b,
-- Liga Mistrzów Ligi Heroes Sezon IX,
-- Taste of Haste 3 - TURBO is back,
-- Exotic Tournament II.
+   - XL+yoU 3,
+   - Mirror Casino 4,
+   - 30th Anniversary Cup, 
+   - King of h3dm,
+   - Puchar Zdobywców Pucharów 2024,
+   - Liga Heroes Sezon X - zwycięzcy dywizji 1a i 1b,
+   - Liga Mistrzów Ligi Heroes Sezon IX,
+   - Taste of Haste 3 - TURBO is back,
+   - Exotic Tournament II.
 
-3. Faza Grupowa:
+3. Faza Szwajcarska:
 
-   `1)` Faza Grupowa będzie trwać od 7 stycznia 2026 do 21 stycznia 2026 włącznie,
+   `1)` Faza Szwajcarska będzie trwać od 7 stycznia 2026 do 28 stycznia 2026 włącznie,
 
-   `2)` W Fazie Grupowej weźmą udział wszyscy Uczestnicy zaprosznie do Turnieju na podstawie punktu 2. tego rozdziału,
+   `2)` W Fazie Szwajcarskiej wezmą udział wszyscy Uczestnicy zaproszenie do Turnieju na podstawie punktu 2. tego rozdziału,
 
-   `3)` Uczestnicy Fazy Grupowej zostaną w sposób losowy podzieleni na 2 grupy o rozmiarach różniących się maksymalnie o 1 Uczestnika,
+   `3)` W Fazie Szwajcarskiej Uczestnicy po 6 Meczów Bo1, przeciwnicy w pierwszym Meczu zostaną dobrani losowo, a w kolejnych Meczach na podstawie liczby zdobytych punktów, zgodnie z zasadami systemu szwajcarskiego,
 
-   `4)` W Fazie Grupowej Uczestnicy rozegrają po jednym Meczu Bo1 z każdym przeciwnikiem w swojej grupie,
+   `4)` Za zwycięstwo Uczestnik otrzymuje 1 punkt, w przypadku porażki jest to 0 punktów, w przypadku remisu Mecz powinien zostać powtórzony,
 
-   `5)` Za zwycięstwo Uczestnik otrzymuje 1 punkt, w przypadku porażki jest to 0 punktów, w przypadku remisu Mecz powinien zostać powtórzony,
+   `5)` Zwycięzcami Fazy Szwajcarskiej zostanie 2 Uczestników z największą liczbą punktów,
 
-   `6)` Zwycięzcami Fazy Grupowej zostanie po 2 Uczestników z największą liczbą punktów w każdej grupie,
+   `6)` W przypadku zdobycia przez dwóch lub więcej Uczestników równej liczby punktów, decyduje wynik Meczów bezpośrednich pomiędzy tymi Uczestnikami,
 
-   `7)` W przypadku zdobycia przez dwóch lub więcej Uczestników w jednej grupie równej liczby punktów, decyduje wynik Meczów bezpośrednich pomiędzy tymi Uczestnikami,
+   `7)` W przypadku, w którym wynik Meczów bezpośrednich nie pozwala na jednoznaczne wskazanie zwycięzców (np. niech trzech Uczestników A, B i C znajduje się w jednej grupie i posiada równą liczbę punktów, Uczestnik A wygrał Mecz bezpośredni z Uczestnikiem B, B z C, a C z A) Organizatorzy rozstrzygną kolejność w grupie poprzez rzut monetą zgodnie z ustępem `9)`,
 
-   `8)` W przypadku, w którym wynik Meczów bezpośrednich nie pozwala na jednoznaczne wskazanie zwycięzców (np. niech trzech Uczestników A, B i C znajduje się w jednej grupie i posiada równą liczbę punktów, Uczestnik A wygrał Mecz bezpośredni z Uczestnikiem B, B z C, a C z A) Organizatorzy rostrzygną kolejność w grupie poprzez rzut monetą zgodnie z ustępem `9)`,
+   `8)` Rzut monetą przeprowadzany jest przez jednego z Organizatorów przy obecności wszystkich Uczestników, których on dotyczy. Cała procedura powinna zostać nagrana przez Organizatora.
 
-   `9)` Rzut monetą przeprowadzany jest przez jednego z Organiaztorów przy obecności wszystkich Uczestników, których on dotyczy. Cała procedura powinna zostać nagrana przez Organizatora.
+    `9)` Ustępy `6)` i `7)` stosuje się wyłącznie w przypadku, w którym są one konieczne do wyłonienia zwycięzców Fazy Szwajcarskiej.
 
-4. Wielkie Finały:
+4. Wielki Finał:
 
-   `1)` Wielkie Finały będą trwać od 22 stycznia 2026 do 5 lutego 2026 włącznie,
+   `1)` Wielki Finał będzie trwać od 28 stycznia 2026 do 5 lutego 2026 włącznie,
 
-   `2)` w Wielkich Finałach weźmie udział 4 zwycięzców Fazy Grupowej,
+   `2)` w Wielkim Finale weźmie udział 2 zwycięzców Fazy Szwajcarskiej,
 
-   `3)` Wielkie finały odbędą się w systemie pucharowym z pojedynczą eliminacją,
-
-   `4)` W pierwszej fazie Wielkich Finałów Uczestnicy zmierzą się w parach ustalonych na wyników Fazy Grupowej, Uczestnik, który zajął 1 miejsce w grupie 1 zmierzy się z Uczestnikiem z 2 miejsca w grupie 2, a pozostali Uczestnicy zmierzą się ze sobą, w drugiej fazie Wielkich Finałów, zwycięzcy Meczów w 1 fazie zmierzą sie w Finale, a przegrani w Meczu o 3 miejsce.
-
-   `5)` Mecze rozgrywane będą w systemie Bo3, na rozegranie jednej fazy Uczestnicy będą mieli tydzień,
+   `3)` Wielki finał odbędą się w formie Meczu Bo3 pomiędzy dwoma zwycięzcami Fazy Szwajcarskiej,
 
 5. W przypadku problemów z terminowym rozegraniem Meczu:
 
